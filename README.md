@@ -8,7 +8,7 @@
 [Healthcare App](https://play.google.com/store/apps/details?id=com.docspechealth)
 [Rdna App](https://play.google.com/store/apps/details?id=com.rdnastore.app.customer)
 
-- 💬 Ask me about **Flutter,Dart,Design patterns,State management(Provider), Restful APIs and several different programming langs such as (C#,C++ and Pythons)**
+- 💬 Ask me about **Flutter,Dart,Design patterns, State management(Provider), Restful APIs and several different programming langs such as (C#,C++ and Pythons**
 
 - 📫 How to reach me **omniahamdy4689@gmail.com**
 
