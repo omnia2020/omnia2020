@@ -3,13 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omnia2020&label=Profile%20views&color=0e75b6&style=flat" alt="omnia2020" /> </p>
 
-- 🔭 I’m currently working on [Docspe App](https://play.google.com/store/apps/details?id=com.docspe)
+- 🔭 I have worked on several apps like:  
+[Docspe App](https://play.google.com/store/apps/details?id=com.docspe)
+[Healthcare App](https://play.google.com/store/apps/details?id=com.docspechealth)
+[Rdna App](https://play.google.com/store/apps/details?id=com.rdnastore.app.customer)
 
-- 💬 Ask me about **Flutter,Dart,C#,Asp.Net,Python**
+- 💬 Ask me about **Flutter,Dart,Design patterns,State management(Provider), Restful APIs and several different programming langs such as (C#,C++ and Pythons)**
 
 - 📫 How to reach me **omniahamdy4689@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dy0vTrN_-IsN4hkekLMaczLTx5sVf0DV/view?usp=share_link](https://drive.google.com/file/d/1dy0vTrN_-IsN4hkekLMaczLTx5sVf0DV/view?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1dy0vTrN_-IsN4hkekLMaczLTx5sVf0DV/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
