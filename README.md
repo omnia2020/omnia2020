@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omnia Hamdy</h1>
-<h3 align="center">A passionate Flutter developer from Egypt 🇪🇬</h3>
+<h3 align="center">Flutter developer passionate about learning, coding, and solving real-world problems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omnia2020&label=Profile%20views&color=0e75b6&style=flat" alt="omnia2020" />
@@ -22,10 +22,9 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/omnia-hamdy](https://www.linkedin.com/in/omnia-hamdy-b949b8177/)" target="blank">
+  <a href="https://www.linkedin.com/in/omnia-hamdy-b949b8177/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Omnia Hamdy" height="30" width="40" />
   </a>
-  
 </p>
 
 ---
