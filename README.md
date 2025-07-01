@@ -49,5 +49,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omnia2020&show_icons=true&locale=en&layout=compact" alt="omnia2020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omnia2020&show_icons=true&locale=en" alt="omnia2020" /></p>
+
 
