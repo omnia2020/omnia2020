@@ -8,7 +8,13 @@
 - 🔭 I’ve developed multiple production-ready apps including:  
   - [📱 Docspe App](https://play.google.com/store/apps/details?id=com.docspe)  
   - [🏥 Healthcare App](https://play.google.com/store/apps/details?id=com.docspechealth)  
-  - [🛍 Rdna App](https://play.google.com/store/apps/details?id=com.rdnastore.app.customer)
+  - [🛍 Rdna App](https://play.google.com/store/apps/details?id=com.rdnastore.app.customer)  
+  - [🏥 Remain](https://apps.apple.com/sa/app/ahmc/id6670443386)  
+  - [🏛 Tech Heritage](https://apps.apple.com/ae/app/tech-heritage/id6736628063)  
+  - [⚽ Roap](https://apps.apple.com/ae/app/roap-sports/id6569262163)  
+  - [🤝 Misr Elkheir](https://apps.apple.com/ae/app/roap-sports/id6569262163)  
+
+    
 
 - 💬 Ask me about **Flutter, Dart, state management (Riverpod & Provider), design patterns, RESTful APIs, and general programming topics (C++, C#, Python)**
 
