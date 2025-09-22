@@ -22,7 +22,7 @@
 
 - 🌐 View my portfolio: [omniahamdy.my.canva.site](https://omniahamdy.my.canva.site/omnia-hamdy)
 
-- 📄 View my resume: [My Resume](https://drive.google.com/file/d/15wSqyhcEioPnhAk3I-GUkVMOyQs8J4es/view?usp=sharing)
+- 📄 View my resume: [My Resume](https://drive.google.com/file/d/1Sa8OFQhpPYp3ovvjpXOnLpfyl6n_g2CX/view?usp=sharing)
 
 ---
 
